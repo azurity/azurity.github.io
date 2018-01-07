@@ -1,0 +1,105 @@
+.article{
+    margin: 10px 0;
+}
+.article *{
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;/*Georgia, "Times New Roman", serif;*/
+}
+.article p{
+    margin: 10px 10px;
+    font-size: 16px;
+}
+.article h1,
+.article h2,
+.article h3,
+.article h4,
+.article h5,
+.article h6{
+    border-bottom: 1px solid #eee;
+}
+.article h1{font-size: 2em;margin: .67em 10px;}
+.article h2{font-size: 1.5em;margin: .83em 10px;}
+.article h3{font-size: 1.17em;margin: .1em 10px;}
+.article h4{font-size: 1em;margin: 1.33em 10px;}
+.article h5{font-size: 0.83em;margin: 1.67em 10px;}
+.article h6{font-size: 0.67em;margin: 2.33em 10px;}
+.article pre{
+    margin: 0;
+}
+.article code{
+    border: 2px solid rgb(238,238,238);;
+    border-radius: 3px;
+    padding: 0 2px;
+}
+.article code,
+.code pre{
+    background: rgb(238,238,238);
+    color: #4d4d4c;
+    font-family: Consolas, "Ubuntu Monospace", Monaco, "Courier New";
+    font-size: 16px;
+}
+.article table{
+    display: table;
+    border-spacing: 2px;
+    border-collapse:collapse;
+    border: 1px solid #e3e3e3;
+    margin: 15px 10px;
+}
+.article table th,
+.article table td{
+    border: 1px solid #e3e3e3;
+    padding: 5px 15px;
+}
+.article table tbody tr:nth-child(2n-1) {
+    background: #eee;
+}
+.article figure{
+    background: rgb(238,238,238);
+    padding: 15px 20px;
+    margin: 0;
+}
+.article figure table{
+    border: 0;
+    border-collapse: separate;
+    border-color: transparent;
+    margin: 0;
+}
+.article figure table th,
+.article figure table td{
+    border: 0;
+    padding: 0;
+}
+.article figure .gutter{
+    padding-right: 20px;
+    color: #666666;
+}
+.article a{
+    font-size: 16px;
+    text-decoration: none;
+}
+.article a:hover{
+    text-decoration: underline;
+}
+.article a:hover,
+.article a:active,
+.article a:focus,
+.article a:visited{
+    color: #0000ff;
+}
+.article ul,
+.article ol{
+    padding: 0 20px;
+    margin: 10px 10px;
+}
+.article hr{
+    border: 0;
+    border-bottom: 1px solid #eee;
+    margin: 10px 10px;
+}
+.article blockquote{
+    margin: 0 10px;
+    border-left: 4px solid #eee;
+}
+.article pre span{
+    font-family: inherit;
+}

@@ -1,0 +1,45 @@
+{
+    "frontColor": "#ffffff",
+    "backColor": "#00ccff",
+    "lists": [
+        {
+            "key": "0",
+            "title": null,
+            "list": [
+                {
+                    "key": "0",
+                    "text": "Copyright © 2018 ",
+                    "src": {
+                        "url": "https://github.com/azurity",
+                        "text": "azurity",
+                        "img": null
+                    }
+                }
+            ]
+        },
+        {
+            "key": "1",
+            "title": null,
+            "list": [
+                {
+                    "key": "0",
+                    "text": "Powered By ",
+                    "src": {
+                        "url": "https://hexo.io",
+                        "text": "Hexo",
+                        "img": null
+                    }
+                },
+                {
+                    "key": "1",
+                    "text": "icons ",
+                    "src": {
+                        "url": "https://github.com/nullice/NViconsLib_Silhouette",
+                        "text": "NViconsLib",
+                        "img": null
+                    }
+                }
+            ]
+        }
+    ]
+}
