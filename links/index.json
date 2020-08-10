@@ -1,6 +1,12 @@
 [
     {
-        "name": "这是一个测试连接，毕竟还没有友链o(╥﹏╥)o",
-        "src": ""
+        "name": "LordCasser",
+        "description": "May be a hacker?",
+        "src": "http://lordcasser.com/"
+    },
+    {
+        "name": "Jyunmau",
+        "description": "一只产品",
+        "src": "https://jyunmau.github.io/"
     }
 ]
